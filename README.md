@@ -2,9 +2,10 @@
 
 ### Hi there 👋, I'm A Z M Arif
 
-crown I am Web Developer
-pen Love to write code
-microphone Like to share my knowledge
+I am Web Developer
+</br>
+Love to write code
+Like to share my knowledge
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
 
