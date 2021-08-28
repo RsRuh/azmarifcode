@@ -2,7 +2,7 @@
 
 ## Hi there, I'm A Z M Arif
 
-⚡ I am Web Developer
+⚡ I'm Web Developer
 </br>
 ⚡ Love to write code
 </br>
