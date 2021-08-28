@@ -25,21 +25,12 @@
 ## Skills & Experiance:
 </hr>
 
-
-- 🔭 I’
-
 - HTML
-</br>
 - CSS 
-</br>
 - Bootstrap
-</br>
 - JS
-</br>
 - WordPress 
-</br>
 - Shopify
-</br>
 - Adobe
 
 <h2 align="left">Connect with me:</h2>
