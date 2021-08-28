@@ -11,10 +11,15 @@
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
 
 🔭 I’m currently working on YouTube 
+</br>
 🌱 I’m currently learning JavaScript 
+</br>
 👯 I’m looking to collaborate on github 
+</br>
 💬 Ask me about Web Development 
+</br>
 📫 How to reach me: azmarif.info@gmail.com 
+</br>
 ⚡ Fun fact: I'm funny
 
 ## Skills & Experiance:
