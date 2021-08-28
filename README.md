@@ -2,13 +2,15 @@
 
 ## Hi there, I'm A Z M Arif
 
+![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
+
 ⚡ I'm Web Developer
 </br>
 ⚡ Love to write code
 </br>
 ⚡ Like to share my knowledge
 
-![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
+</hr>
 
 🔭 I’m currently working on YouTube 
 </br>
