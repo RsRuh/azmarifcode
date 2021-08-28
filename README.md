@@ -9,9 +9,9 @@
 ⚡ Love to write code
 </br>
 ⚡ Like to share my knowledge
-
-</hr>
-
+</br>
+ </hr>
+ </br>
 🔭 I’m currently working on YouTube 
 </br>
 🌱 I’m currently learning JavaScript 
