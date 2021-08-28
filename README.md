@@ -2,16 +2,14 @@
 
 ## Hi there, I'm A Z M Arif
 
-![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
-
 ⚡ I'm Web Developer
 </br>
 ⚡ Love to write code
 </br>
 ⚡ Like to share my knowledge
-</br>
- </hr>
- </br>
+
+![Profile views](https://gpvc.arturio.dev/azmarif-lab)
+
 🔭 I’m currently working on YouTube 
 </br>
 🌱 I’m currently learning JavaScript 
@@ -26,6 +24,10 @@
 
 ## Skills & Experiance:
 </hr>
+
+
+- 🔭 I’
+
 - HTML
 </br>
 - CSS 
