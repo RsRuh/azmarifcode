@@ -25,8 +25,8 @@
 ## Skills & Experiance:
 </hr>
 
-- HTML
-- CSS 
+- HTML5
+- CSS3
 - Bootstrap
 - JS
 - WordPress 
