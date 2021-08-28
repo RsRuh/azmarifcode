@@ -2,11 +2,11 @@
 
 ## Hi there, I'm A Z M Arif
 
-I am Web Developer
+⚡ I am Web Developer
 </br>
-Love to write code
+⚡ Love to write code
 </br>
-Like to share my knowledge
+⚡ Like to share my knowledge
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
 
