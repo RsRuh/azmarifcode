@@ -1,7 +1,10 @@
 ![I am a Front End Web developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/185039453_949827475841902_9183415270534745737_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGPv67rf_embRIBVb4We4l4j1DHGKT1Lg2PUMcYpPUuDfhUJf6GS5UrBmoN-m0-hQYPLaky5e7Ho_Wr5bMaQipZ&_nc_ohc=ZP9Oj1YXdZgAX8Ko7Z0&_nc_ht=scontent.fdac5-2.fna&oh=3a2b2c03fa5d0e2a777dffbe14bf23a3&oe=614FFBE8)
 
 ### Hi there 👋, I'm A Z M Arif
-#### I am a Front End Web developer
+
+crown I am Web Developer
+pen Love to write code
+microphone Like to share my knowledge
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab) 
 
