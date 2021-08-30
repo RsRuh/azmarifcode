@@ -50,8 +50,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmarif-lab&show_icons=true&locale=en&layout=compact" alt="azmarif-lab" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true)
+<p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true)</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab)
+<p>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab)</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azmarif-lab)  
+<p>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azmarif-lab)</p>
