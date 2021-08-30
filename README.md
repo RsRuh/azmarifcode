@@ -49,6 +49,7 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmarif-lab&show_icons=true&locale=en&layout=compact" alt="azmarif-lab" /></p>
+</br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true)
 
