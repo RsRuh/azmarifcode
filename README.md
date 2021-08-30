@@ -52,6 +52,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true&locale=en" alt="azmarif-lab" /></p>
 
+## GitHub Streak Stats:
+<hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab&" alt="azmarif-lab" /></p>
 
 ## GitHub Badges:
