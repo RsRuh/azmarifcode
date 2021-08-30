@@ -50,6 +50,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmarif-lab&show_icons=true&locale=en&layout=compact" alt="azmarif-lab" /></p>
 
+## GitHub Streak Stats:
+</hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab&" alt="azmarif-lab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true&locale=en" alt="azmarif-lab" /></p>
@@ -61,6 +63,8 @@
 ## GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azmarif-lab)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Metrics:
 
 ![GitHub metrics](https://metrics.lecoq.io/azmarif-lab) 
 
