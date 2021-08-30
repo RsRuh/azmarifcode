@@ -49,10 +49,10 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmarif-lab&show_icons=true&locale=en&layout=compact" alt="azmarif-lab" /></p>
-</hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab&" alt="azmarif-lab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarif-lab&show_icons=true&locale=en" alt="azmarif-lab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarif-lab&" alt="azmarif-lab" /></p>
 
 ## GitHub Badges:
 </hr>
