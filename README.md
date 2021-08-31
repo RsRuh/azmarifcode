@@ -62,7 +62,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=azmarif-lab)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics:
-![GitHub metrics](https://metrics.lecoq.io/azmarif-lab) 
+![GitHub metrics](https://metrics.lecoq.io/azmarif-lab)
 
 ## GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azmarif-lab) 
