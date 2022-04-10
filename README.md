@@ -1,6 +1,6 @@
 ![I am a Front End Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQFNaZtwl8c20g/profile-displaybackgroundimage-shrink_200_800/0/1630292053551?e=1651104000&v=beta&t=lbvYPJDpAeu2mlRob6-7OhRguPMfZFf76VzBH5nZGaI)
 
-## Hi there, I'm A Z M Arif
+## Hi there, I'm A. Z. M. Arif
 
 ⚡ I'm Web Developer
 </br>
@@ -18,7 +18,7 @@
 </br>
 💬 Ask me about Web Development 
 </br>
-📫 How to reach me: azmarif.info@gmail.com 
+📫 How to reach me: azmarifcode@gmail.com 
 </br>
 ⚡ Fun fact: I'm funny
 
