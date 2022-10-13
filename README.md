@@ -8,8 +8,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=azmarifcode&label=Profile%20views&color=0e75b6&style=flat" alt="azmarifcode" /> </span>
-
 ⚡ I'm Web Developer
 </br>
 ⚡ Love to write code
