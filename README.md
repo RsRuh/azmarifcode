@@ -1,4 +1,6 @@
-![I am a Front End Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQFNaZtwl8c20g/profile-displaybackgroundimage-shrink_200_800/0/1630292053551?e=2147483647&v=beta&t=A8xZmWSm9gPTQZlfQAoMEjVjKT1vyUB2La5lgGa0KMQ)
+<div align="center">
+<img width="100%" src="banner.jpg" alt="cover" />
+</div>
 
 ## Hi there, I'm A. Z. M. Arif
 
