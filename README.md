@@ -2,7 +2,7 @@
 <img width="100%" src="banner.jpg" alt="cover" />
 </div>
 
-## Hi there, I'm A. Z. M. Arif
+## Hi <img src = "hi.gif" width="50px" height="50px">, I'm A. Z. M. Arif
 
 ⚡ I'm Web Developer
 </br>
