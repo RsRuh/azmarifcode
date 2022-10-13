@@ -1,12 +1,13 @@
 <div align="center">
 <img width="100%" src="banner.jpg" alt="cover" />
 
-
+</br>
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
 ## Hi <img src = "hi.gif" width="50px" height="50px"> I'm A. Z. M. Arif
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+</div>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ⚡ I'm Web Developer
@@ -58,4 +59,3 @@
 
 ## GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azmarifcode) 
-</div>
