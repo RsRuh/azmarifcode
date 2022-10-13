@@ -2,8 +2,9 @@
 <img width="100%" src="banner.jpg" alt="cover" />
 </div>
 
-## Hi <img src = "hi.gif" width="50px" height="50px">, I'm A. Z. M. Arif
+## Hi <img src = "hi.gif" width="50px" height="50px"> I'm A. Z. M. Arif
 
+<h2> About Me  <img src = "68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966.gif" width="40px" height="40px"></h2>
 ⚡ I'm Web Developer
 </br>
 ⚡ Love to write code
