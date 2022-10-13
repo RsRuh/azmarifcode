@@ -55,7 +55,7 @@
 
 <div align="center">
 
-## Language
+## Most Used Language
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)](https://github.com/anuraghazra/github-readme-stats)
 
