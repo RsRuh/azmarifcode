@@ -26,7 +26,7 @@
 </br>
 💬 Ask me about Web Development 
 </br>
-📫 Reach me at: azmarifcode@gmail.com 
+📫 Reach me at azmarifcode@gmail.com 
 </br>
 
 <div align="center">
