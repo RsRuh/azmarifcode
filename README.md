@@ -1,7 +1,6 @@
 <div align="center">
 <img width="100%" src="banner.jpg" alt="cover" />
 
-</br>
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
 ## Hi <img src = "hi.gif" width="50px" height="50px"> I'm A. Z. M. Arif
