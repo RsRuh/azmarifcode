@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" src="banner.jpg" alt="cover" />
-</div>
+
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
@@ -58,3 +58,4 @@
 
 ## GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azmarifcode) 
+</div>
